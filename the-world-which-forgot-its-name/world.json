@@ -1,0 +1,142 @@
+{
+  "name": "the-world-which-forgot-its-name",
+  "title": "The World Which Forgot Its Name",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "DDB Spells",
+      "name": "ddb-the-world-which-forgot-its-name-spells",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-spells.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-spells.db"
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-the-world-which-forgot-its-name-items",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-items.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-items.db"
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-the-world-which-forgot-its-name-monsters",
+      "package": "world",
+      "type": "Actor",
+      "path": "packs/ddb-the-world-which-forgot-its-name-monsters.db",
+      "system": "dnd5e",
+      "entity": "Actor",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-monsters.db"
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-the-world-which-forgot-its-name-feats",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-feats.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-feats.db"
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-the-world-which-forgot-its-name-class-features",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-class-features.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-class-features.db"
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-the-world-which-forgot-its-name-classes",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-classes.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-classes.db"
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-the-world-which-forgot-its-name-racial-traits",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-racial-traits.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-racial-traits.db"
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-the-world-which-forgot-its-name-races",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-races.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-races.db"
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-the-world-which-forgot-its-name-override",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-override.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "/forge-vtt/data/Data/worlds/the-world-which-forgot-its-name/packs/ddb-the-world-which-forgot-its-name-override.db"
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-the-world-which-forgot-its-name-tables",
+      "package": "world",
+      "type": "RollTable",
+      "path": "packs/ddb-the-world-which-forgot-its-name-tables.db",
+      "system": "dnd5e",
+      "entity": "RollTable",
+      "private": false
+    },
+    {
+      "label": "DDB Backgrounds",
+      "name": "ddb-the-world-which-forgot-its-name-backgrounds",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-world-which-forgot-its-name-backgrounds.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "9.269",
+  "nextSession": "2022-03-12T23:00:00.000Z",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.7"
+}
